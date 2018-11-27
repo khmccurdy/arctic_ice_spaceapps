@@ -21,3 +21,9 @@ over time and over the three spatial dimensions."
 * Satellite data not always available (data downlink/revisit rate)
 * Ice can form very quickly
 * Ships don’t want to sink but it’s a faster route vs Panama Canal/going around South America
+
+## Graphs
+### Cross-Section of Ice Sheet Over One Month
+<img src="plots/output_82q3Ut.gif" width="500px">
+
+### More can be found in the [Jupyter Notebook](Arctic%20Ice%20Visualization.ipynb)
